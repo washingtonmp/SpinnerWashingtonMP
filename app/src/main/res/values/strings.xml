@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AtividadeSpinnerWashingtonMP</string>
+    <string-array name="estado_civil">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+</resources>
